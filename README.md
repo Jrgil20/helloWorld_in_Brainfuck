@@ -1,4 +1,4 @@
-# helloWorld_in_Brainfuck
+# Brainfuck
 
 In this project, we are going to program in Brainfuck. Brainfuck is an esoteric programming language known for its simplicity and extreme minimalism.
 
@@ -18,18 +18,3 @@ In this project, we are going to program in Brainfuck. Brainfuck is an esoteric 
     - `]`: If the value of the current cell is not 0, jump to the instruction after the corresponding opening bracket.
 
 4. Repeat step 3 until all the Brainfuck code has been executed.
-
-# Printing "Hello world!" in Brainfuck
-
-To print the phrase "Hello world!" in Brainfuck, we need to convert each character to its ASCII value and then use the `.` command to print it.
-
-72 = ‘H’
-101 = ‘e’
-108 = ‘l’
-111 = ‘o’
-32 = space
-87 = ‘W’
-114 = ‘r’
-100 = ‘d’
-33 = ‘!’
-
